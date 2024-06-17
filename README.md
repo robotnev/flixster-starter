@@ -33,8 +33,7 @@ Estimated time spent: **32** hours spent in total
   - [ ] Users can open a sidebar
   - [ ] The sidebar displays the user's favorited and watched movies
 ### Walkthrough Video
-<iframe src="https://fb-my.sharepoint.com/personal/vaeh_meta_com/_layouts/15/embed.aspx?UniqueId=7171a586-8451-473c-907c-58b55c6c8595&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Screen Recording 2024-06-14 at 8.15.23 PM.mov"></iframe>
-
+(https://drive.google.com/file/d/1KwmJ1jltxyR3DrjFdWglgSa8by_ok7nI/view?usp=sharing)
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
